@@ -26,17 +26,17 @@ A typical DW consists of:
 **OLAP Tools** (Online Analytical Processing) – Enables multidimensional analysis (e.g., roll-up, drill-down, slice & dice).
 
 ## Benefits of Data Warehousing
-Provides a single source of truth.
-Enhances business intelligence and decision-making.
-Supports historical data analysis for trends and forecasting.
-Improves data quality, consistency, and integration.
-Enables faster query performance compared to transactional systems.
+* Provides a single source of truth.
+* Enhances business intelligence and decision-making.
+* Supports historical data analysis for trends and forecasting.
+* Improves data quality, consistency, and integration.
+* Enables faster query performance compared to transactional systems.
 
 ## Challenges in Data Warehousing
-High implementation cost and complexity.
-Data integration from multiple sources can be difficult.
-Requires large storage and processing power.
-Security and compliance issues with sensitive data.
+* High implementation cost and complexity.
+* Data integration from multiple sources can be difficult.
+* Requires large storage and processing power.
+* Security and compliance issues with sensitive data.
 
 ## Conclusion
 Data warehouse is a virtual component of modern business, enabling organizations to consolidate, analyze. In future data warehouse more advanced,intelligent scalable and fast taking data decision.
