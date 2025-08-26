@@ -18,10 +18,10 @@ public class Class1 {
 		System.out.println(c+d);
 	}
 
-//	 @Override
-//	 public String toString() {
-//		return "Class1 [a=" + a + ", b=" + b + ", str=" + str + "]";
-//	 }
+	 @Override
+	 public String toString() {
+		return "Class1 [a=" + a + ", b=" + b + ", str=" + str + "]";
+	 }
 	 
 	 
 	 
