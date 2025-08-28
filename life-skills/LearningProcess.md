@@ -14,5 +14,5 @@ The subtle kingdom occurs after the active kingdom, specially in case you couldn
 **Answer**: Deconstruct the ability: Recognize that a talent is usually a collection of smaller abilities. Break down the larger ability into smaller, plausible capabilities, and decide which of them you need to grasp first, that specialize in working towards the ones.
 Learn enough to self-correct: Gather diverse assets for the talent you're learning. Learn just sufficient to practice and apprehend errors, permitting you to modify and enhance. Remove exercise limitations: Eliminate distractions like your smartphone, which allows you live targeted and prevents interruptions for your getting to know method. Practice for at least 20 hours: Initially, you may experience pissed off, however it's important to persist and maintain working towards till you enhance.
 
-## What are some of the actions you can take going forward to improve your learning process?**
+## What are some of the actions you can take going forward to improve your learning process?
 **Answer**: These techniques can be implemented in future studying topics, including energetic and diffused states, overcoming preliminary frustration, putting off practice boundaries, and recalling concepts after getting to know.
